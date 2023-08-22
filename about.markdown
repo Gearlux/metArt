@@ -13,4 +13,6 @@ Unfortunately, the passion has a cost and in order not to jepardize my children'
 
 Hopefully, one day, I can make the kinetic art available for you.
 
+![](images/business_card.png)
+
 
