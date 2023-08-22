@@ -15,6 +15,6 @@ layout: home
 | **THWACK** ||
 | <img src="images/thwack.jpeg" width="500px"> | A very useful tool in the lab, the [THWACK](https://www.thingiverse.com/thing:34404) hammer. <br> <br> `Lucky Erik`<br> <br> Now completely customizable.  | 
 ||**Pencil Cup** |
-| This one is for all the assistants. <br> <br> A personalized pencil cup <br> <br> Happy `ADMINISTRATIVE PROFESSIONALS DAY` Chantal | <img src="images/cup.jpeg" width="500px"/> |
+| This one is for all the assistants. <br> <br> A personalized [pencil cup](https://www.printables.com/model/198024-tactile-spiral-vase-pen-cup) <br> <br> Happy `ADMINISTRATIVE PROFESSIONALS DAY` Chantal | <img src="images/cup.jpeg" width="500px"/> |
 
 
