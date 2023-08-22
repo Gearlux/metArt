@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# 3D art ... personalized
+**3D Art ... Personalized**
 
 | Word Clock | |
 | - | - |
