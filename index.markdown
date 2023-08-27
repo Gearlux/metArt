@@ -13,11 +13,13 @@ layout: home
 | | **Zuzanna lamp** |
 | This was the next project, a remake of [lefabshop](https://www.thingiverse.com/lefabshop/designs)'s [Zuzanna](https://www.thingiverse.com/thing:730263) lamp. <br> <br> `A special object as a wedding gift.`  | <img src="images/suzanna/detail.jpeg" width="150px"/> | 
 | **THWACK** ||
-| <img src="images/thwack.jpeg" width="150px"> | A very useful tool in the lab, the [THWACK](https://www.thingiverse.com/thing:34404) hammer. <br> <br> `Lucky Erik`<br> <br> Now completely customizable.  | 
+| <img src="images/thwack.jpeg" width="150px"/> | A very useful tool in the lab, the [THWACK](https://www.thingiverse.com/thing:34404) hammer. <br> <br> `Lucky Erik`<br> <br> Now completely customizable.  | 
 ||**Pencil Cup** |
 | This one is for all the assistants. <br> <br> A personalized [pencil cup](https://www.printables.com/model/198024-tactile-spiral-vase-pen-cup) <br> <br> Happy `ADMINISTRATIVE PROFESSIONALS DAY` Chantal | <img src="images/cup.jpeg" width="150px"/> |
-| **Keyring** ||
-| <img src="images/keyring/open.jpg" width="150px"> | A [magnetic keyring](https://www.printables.com/model/24220-magnetic-key-holder)  that opens the eyes and folds out the wings when you give it your keys. <br> <br> Personalized to show which car to take |
+| **Key holder** ||
+| <img src="images/keyring/open.jpg" width="150px"/> | A [magnetic key holder](https://www.printables.com/model/24220-magnetic-key-holder)  that opens the eyes and folds out the wings when you give it your keys. <br> <br> Personalized to show which car to take |
 || **Hollow Clock** |
-| This [clock](https://www.thingiverse.com/thing:4768343) shows which time it is. <br> <br> `Time for Coffee` | <img src="images/hollow_clock_2.jpg" width="150px"> |
+| This [clock](https://www.thingiverse.com/thing:4768343) shows which time it is. <br> <br> `Time for Coffee` | <img src="images/hollow_clock_2.jpg" width="150px"/> <img src="images/hollow_clock_3.jpg" width="171px"/> |
+| **Keyrings** | |
+| <img src="images/letters_1.jpg" width="117px"/> <img src="images/letters_2.jpg" width="100px"> | Letters that can attach to your keys. <br> <br> Quickly grab your keys without thinking <br> <br> `The best way to stay one minute longer in bed` |
 
