@@ -19,5 +19,5 @@ layout: home
 | **Keyring** ||
 | <img src="images/keyring/open.jpg" width="150px"> | A [magnetic keyring](https://www.printables.com/model/24220-magnetic-key-holder)  that opens the eyes and folds out the wings when you give it your keys. <br> <br> Personalized to show which car to take |
 || **Hollow Clock** |
-| This [clock](https://www.thingiverse.com/thing:4768343) shows which time it is. <br> <br> `Time for Coffee` | <img src="images/hollow_clock.jpg" width="150px"> |
+| This [clock](https://www.thingiverse.com/thing:4768343) shows which time it is. <br> <br> `Time for Coffee` | <img src="images/hollow_clock_2.jpg" width="150px"> |
 
